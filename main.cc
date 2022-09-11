@@ -7,6 +7,5 @@ int main(){
 	cout << "Hello World!" << endl;
 	
 	count_(10);
-
 	return 0;
 }
